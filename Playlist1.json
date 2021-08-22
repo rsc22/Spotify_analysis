@@ -1,0 +1,65 @@
+{
+  "playlists": [
+    {
+      "name": "Example_Playlist1",
+      "lastModifiedDate": "2020-08-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Oliver y Benji",
+            "artistName": "Nerso & Verse",
+            "albumName": "FMS Instrumentales, Vol 1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mezcal",
+            "artistName": "Nerso & Verse",
+            "albumName": "FMS Instrumentales, Vol 1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Andrómeda",
+            "artistName": "Nerso & Verse",
+            "albumName": "FMS Instrumentales, Vol 1"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Example_Playlist2",
+      "lastModifiedDate": "2020-01-16",
+      "items": [
+        {
+          "track": {
+            "trackName": "Your Wave Caresses Me",
+            "artistName": "The Last Sighs of the Wind",
+            "albumName": "We Are Trees"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dislocated Day - Remastered",
+            "artistName": "Wilson",
+            "albumName": "The Sky Moves Sideways (Remastered)"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
