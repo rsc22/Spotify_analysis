@@ -1,2 +1,2 @@
 # Spotify_analysis
-Playing around with the personal Spotify recorded data that can be downloaded.
+Playing around with the personal Spotify recorded data that anyone can download.
